@@ -1,0 +1,10 @@
+﻿  contact.c
+E:\桌面\c\tonhxunlu\tonhxunlu\contact.h(4,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“contact.c”)
+  
+E:\桌面\c\tonhxunlu\tonhxunlu\contact.c(18,3): warning C4098: “AddContact”:“void”函数返回值
+E:\桌面\c\tonhxunlu\tonhxunlu\contact.c(72,3): warning C4098: “DelContact”:“void”函数返回值
+E:\桌面\c\tonhxunlu\tonhxunlu\contact.c(82,3): warning C4098: “DelContact”:“void”函数返回值
+E:\桌面\c\tonhxunlu\tonhxunlu\contact.c(105,3): warning C4098: “SearchContact”:“void”函数返回值
+E:\桌面\c\tonhxunlu\tonhxunlu\contact.c(129,3): warning C4098: “ModifyContact”:“void”函数返回值
+  tonhxunlu.vcxproj -> E:\桌面\c\tonhxunlu\x64\Debug\tonhxunlu.exe
